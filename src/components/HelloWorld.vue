@@ -22,7 +22,7 @@
               <a
                 href="https://www.hbo.com/silicon-valley"
                 target="_blank"
-              >q
+              >
                 Silicon Valley
               </a>
             </li>
